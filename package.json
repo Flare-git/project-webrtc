@@ -1,7 +1,7 @@
 {
   "name": "simplewebrtc-messenger",
   "version": "1.0.0",
-  "description": "Simple WebRTC Messenger",
+  "description": "WebRTC Messenger",
   "scripts": {
     "start": "node server.js"
   },
